@@ -1,6 +1,6 @@
 # Developing Data Products Final project
 ## Project on Montecarlo method using shiny app in R
-***
+
 ### Introduction
 The purpose of this app is to allow users to discover in a intuitive way the principles of MonteCarlo method. This method relies on repeated random sampling to obtain numerical results (often a deterministic problem). Further reading
 
